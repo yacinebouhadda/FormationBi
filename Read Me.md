@@ -36,8 +36,18 @@
         Axe -> Mois
         Valeurs -> autre cologne
         On affiche que les mois sur le graphe
-        Pour un mieux affichage claire on on modifie dans format les ligne on mettra des lignes en points cotinues
-         
+        Sur l'ongle du grpahe on choisie tris par mois apres trie croissant
+        Pour un mieux affichage claire on on modifie dans format les ligne on mettra des lignes en points cotinues 
+        On ajoute les etiquettes sur le graphe et des marqueurs
+        Petit changement on ajoute le mois d ejuillet a la ricolte
+        Donc on va modifier notre table
+        Apres avoir modifier notre fichier excel on actualise la table sur power bi
+        Et elle s'ajoute automatiquement meme sur le graphe power bi l'integre
+
+    3. Tout les commit et les push se font par VS Code juste un "push to" pour montrer le dossier vers qui envoyer 
+
+
+
 
 
 
