@@ -1,5 +1,5 @@
 # Formation de Data visualisation power bi 
-    1.Recuillir et traiter des données à partir d'une page web
+    ## 1.Receuillir et traiter des données à partir d'une page web
 
         Le navigateur de power bi recupere toute les tables de la page web "https://fr.wikipedia.org/wiki/D%C3%A9mographie_de_la_France"
         On choisie la table source 
@@ -17,7 +17,7 @@
         Taux de natalité -> en ligne
         Sur format on va changer un peut notre graphe pour qu'il soit plus lisible
 
-    2.Recuillir et traiter des données à partir d'un fichier EXCEL
+    ## 2.Recuillir et traiter des données à partir d'un fichier EXCEL
 
         On cliquant sur obetenir des données -> excel sur le naviagteur power bi nous chargeons le fichier sur notre dossier local "Primeur A.xlsx"
         On choisie la table Primeur A
@@ -44,7 +44,7 @@
         Apres avoir modifier notre fichier excel on actualise la table sur power bi
         Et elle s'ajoute automatiquement meme sur le graphe power bi l'integre
 
-    3.Tout les commit et les push se font par VS Code juste un "push to" pour montrer le dossier vers qui envoyer 
+   ## 3.Tout les commit et les push se font par VS Code juste un "push to" pour montrer le dossier vers qui envoyer 
 
 
 
